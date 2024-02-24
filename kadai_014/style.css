@@ -14,8 +14,8 @@ html {
 }
 
 h1 {
-  font-size: 2rem;
-}
+  font-size: 200%;
+  }
 .underline { 
   border-bottom: solid 3px; width: auto; 
   border-color:rgb(115, 115, 114);
