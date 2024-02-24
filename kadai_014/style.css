@@ -14,8 +14,12 @@ html {
 }
 
 h1 {
-  font-size: 15px,;
+  font-size: 2rem;
 }
+.underline { 
+  border-bottom: solid 3px; width: auto; 
+  border-color:rgb(115, 115, 114);
+} 
 
 .blue {
  color: #a0d8ef;
@@ -49,5 +53,5 @@ h1 {
 }
 
 .text-weight {
-  font-weight: bold;
+  font-weight: bolder;
 }
