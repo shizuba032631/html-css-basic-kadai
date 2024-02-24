@@ -14,7 +14,7 @@ html {
 }
 
 h1 {
-  font-size: 200%;
+  font-size: 2rem;
   }
 .underline { 
   border-bottom: solid 3px; width: auto; 
@@ -53,5 +53,5 @@ h1 {
 }
 
 .text-weight {
-  font-weight: bolder;
+  font-weight: bold;
 }
