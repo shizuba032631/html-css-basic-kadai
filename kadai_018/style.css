@@ -6,17 +6,17 @@
   justify-content: center;
   margin: auto;
   position: relative;
-  bottom: 20px;
-    }
+  }
 #top-child {
   width: 20%;
   background-color:#ffd9df;
   text-align: center;
   margin: 0px 2px;
-  position: relative;
+  position:relative;
   left: auto;
   right: auto;
-   }
+  top: auto;
+  }
    #middle {
     display: flex;
     width: 800px;
