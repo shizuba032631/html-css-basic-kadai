@@ -61,7 +61,7 @@
   margin: auto;
   background-color:#87ceeb;
   position: relative;
-  top: 20px;
+  top: 40px;
   }
 #bottom01 {
   width: 400px;
@@ -81,9 +81,6 @@
   background-color:#e5dcf0;
   position: relative;
   left: 400px;
-  }
-.border {
-  height: 20px;
 }
 
   
